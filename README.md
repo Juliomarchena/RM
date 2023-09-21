@@ -1,2 +1,2 @@
 # RM
-Contiene los archivos para Realidad Mixta
+Contiene los archivos para Realidad Aumentada
